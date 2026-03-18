@@ -8,7 +8,7 @@ Cybersecurity | Network Security | Fintech | Ethical Hacking
   <a href="mailto:dhanushreeushetty@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail">
   </a>
-  <a href="Dhanushree U Shetty | LinkedIn">
+  <a href="https://www.linkedin.com/in/dhanushree-u-shetty-5483282a4/">
     <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://www.instagram.com/dhanushree_ushetty/">
