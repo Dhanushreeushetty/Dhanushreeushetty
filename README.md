@@ -1,4 +1,4 @@
-                                                                       # Dhanushree U Shetty 
+# Dhanushree U Shetty 
 
 > Exploring security. Building discipline. Growing every day.
 
@@ -12,7 +12,7 @@ I’m someone who enjoys understanding how things work — especially in the dig
 
 Alongside tech, I spend my time in **dance and badminton**. These aren’t just hobbies for me — they’ve shaped my mindset. Whether it’s practice, performance, or competition, they’ve taught me focus, patience, and consistency — the same qualities I bring into my technical journey.
 
-Right now, I’m focused on learning, experimenting, and building a strong base in **cybersecurity and FinTech**, one step at a time.
+Right now, I’m focused on learning, experimenting, and building a strong base in **cybersecurity **, one step at a time.
 
 ---
 
@@ -31,4 +31,4 @@ Right now, I’m focused on learning, experimenting, and building a strong base 
 ---
 
 📫 Reach me:
-[EMAIL] • [LINKEDIN] • [INSTAGRAM]
+[dhanushreeushetty@gmail.com] • [Dhanushree U Shetty | LinkedIn] • [https://www.instagram.com/dhanushree_ushetty/]
