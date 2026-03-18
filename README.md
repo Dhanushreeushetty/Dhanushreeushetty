@@ -1,12 +1,34 @@
-# Hi, I'm Dhanushree U Shetty 👋
+                                                                       # Dhanushree U Shetty 
 
-Cybersecurity Student | Network Security | FinTech Enthusiast
+> Exploring security. Building discipline. Growing every day.
+
+Cybersecurity • FinTech • Network Security
+
+---
 
 ## About Me
 
-I’m a B.Tech student specializing in **Cybersecurity** with a minor in **FinTech**. I’m curious about how systems work, how cyber attacks happen, and how security can be strengthened to protect digital environments. I enjoy learning about network security, ethical hacking concepts, and modern technologies used to secure systems.
+I’m someone who enjoys understanding how things work — especially in the digital world. My interest in cybersecurity comes from breaking down systems, spotting weaknesses, and learning how they can be secured.
 
-Apart from technology, I am passionate about **dance and badminton**. Being involved in both has helped me develop discipline, focus, and teamwork — qualities that also help me grow in the field of cybersecurity.
+Alongside tech, I spend my time in **dance and badminton**. These aren’t just hobbies for me — they’ve shaped my mindset. Whether it’s practice, performance, or competition, they’ve taught me focus, patience, and consistency — the same qualities I bring into my technical journey.
 
-Currently focused on building strong foundations in **cybersecurity, networking, and cloud technologies**, while continuously improving my skills through learning and hands-on practice.
+Right now, I’m focused on learning, experimenting, and building a strong base in **cybersecurity and FinTech**, one step at a time.
 
+---
+
+## What I'm Working On
+
+* Learning network security and ethical hacking concepts
+* Exploring tools and real-world scenarios
+* Building small projects to improve practical skills
+
+---
+
+## Mindset
+
+> Stay consistent. Stay curious. Results will follow.
+
+---
+
+📫 Reach me:
+[EMAIL] • [LINKEDIN] • [INSTAGRAM]
