@@ -1,10 +1,7 @@
 # Dhanushree U Shetty 
+Cybersecurity | FinTech | Network Security
 
-> Exploring security. Building discipline. Growing every day.
-
-Cybersecurity • FinTech • Network Security
-
----
+[EMAIL] [LINKEDIN] [INSTAGRAM]
 
 ## About Me
 
@@ -22,13 +19,3 @@ Right now, I’m focused on learning, experimenting, and building a strong base 
 * Exploring tools and real-world scenarios
 * Building small projects to improve practical skills
 
----
-
-## Mindset
-
-> Stay consistent. Stay curious. Results will follow.
-
----
-
-📫 Reach me:
-[dhanushreeushetty@gmail.com] • [Dhanushree U Shetty | LinkedIn] • [https://www.instagram.com/dhanushree_ushetty/]
